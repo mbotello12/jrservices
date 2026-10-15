@@ -3817,8 +3817,7 @@ input, select, textarea {
 
 			#banner {
     		    background-attachment: scroll;
-    		    min-height: 85vh;
-    		    min-height: 85svh;
+    		    height: 100vh;
     		}
 
 
