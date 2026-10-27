@@ -3219,6 +3219,16 @@ input, select, textarea {
 		.wrapper.style1 {
 			background: #2f5140; 
 		}
+		.wrapper.style3{
+			background: #f4f0e8;
+			color: #000000;
+		}
+
+		.wrapper.style3 h2,
+		.wrapper.style3 h3,
+		.wrapper.style3 p {
+			color: #000000;
+		}
 
 			.wrapper.style2 input[type="text"]:focus,
 			.wrapper.style2 input[type="password"]:focus,
