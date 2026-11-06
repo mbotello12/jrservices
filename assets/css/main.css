@@ -3224,6 +3224,10 @@ input, select, textarea {
 			color: #000000;
 		}
 
+		.otherServiceButton {
+			background: #2f5140;
+		}
+
 		.wrapper.style3 h2,
 		.wrapper.style3 h3,
 		.wrapper.style3 p {
